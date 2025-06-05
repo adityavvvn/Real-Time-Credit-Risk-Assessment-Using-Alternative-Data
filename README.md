@@ -53,7 +53,7 @@ This project is supported by an academic paper (FTMM2024-1156-1160.pdf) that dis
 
 ## 👨‍💻 Authors
 
-Developed by [Aditya V V V N](https://github.com/adityavvvn) as part of a research initiative in fintech and machine learning.
+Developed by [V V V N Uday Aditya](https://github.com/adityavvvn as part of a research initiative in fintech and machine learning.
 
 ## 📜 License
 
